@@ -1,0 +1,72 @@
+#mpd{
+    width: 300px;
+    height: 1200px;
+    background-color: rgb(15, 240, 210);
+    border: 3px;
+    float: left;
+    border-radius: 0%;
+    margin: 10px;
+}
+#mpd2{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(64, 230, 105);
+    border: 3px;
+    float: none;
+    border-radius: 35%;
+    margin: 10px;
+}
+#mpd2 hover{
+    width: 330px;
+    height: 200px;
+    background-color: darkgreen;
+    border: 3px;
+    float: none;
+    border-radius: 35%;
+    margin: 10px;
+}
+#mpd3{
+    width: 1200px;
+    height: 200px;
+    background-color: rgb(2, 141, 111);
+    border: 3px;
+    float: none;
+    border-radius: 0%;
+    margin: 10px;
+}
+#mpd4{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(172, 40, 233);
+    border: 3px;
+    float: left;
+    border-radius: 35%;
+    margin: 10px;
+}
+#mpd4 hover{
+    width: 330px;
+    height: 200px;
+    background-color: rgb(228, 12, 192);
+    border: 3px;
+    float: left;
+    border-radius: 35%;
+    margin: 10px;
+}
+#mpd5{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(19, 102, 226);
+    border: 3px;
+    float: left;
+    border-radius: 35%;
+    margin: 10px;
+}
+#mpd6{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(226, 19, 19);
+    border: 3px;
+    float: none;
+    border-radius: 0%;
+    margin: 10px;
+}
